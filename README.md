@@ -1,3 +1,4 @@
 # aronjq
 
-Command line app to display data from json.
+Command line JSON processor.
+Java, graalvm, picocli.

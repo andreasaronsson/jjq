@@ -80,7 +80,7 @@
         <artifactId>native-image-maven-plugin</artifactId>
         <version>19.2.0.1</version>
         <configuration>
-        <mainClass>nu.aron.javajq.Main</mainClass>
+        <mainClass>nu.aron.jjq.Main</mainClass>
         </configuration>
         <executions>
           <execution>
